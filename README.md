@@ -1,6 +1,6 @@
 # PyPoll_Analysis
 
-A Colorado Board of Elections has requested to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections (members - Tom and Seth namely) have requested to complete the election audit of a recent local congressional election.
 
 - Calculate the total number of votes cast.
 - Get a complete list of candidates who received votes.
