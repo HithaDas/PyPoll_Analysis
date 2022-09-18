@@ -32,7 +32,14 @@ The analysis of the election shows the following findings -
 - Charles Gasper Stockham received 23% of the vote and 85,213 number of votes.
 - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
 - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
-7. Diana DeGette who received 73.8% of the vote and 272,892 number of total votes is the winner of the ecelction.
+7. Diana DeGette who received 73.8% of the vote and 272,892 number of total votes is the winner of the election.
+
+Screen shot from Terminal-
+![Screen Shot 2022-09-18 at 5 15 22 PM](https://user-images.githubusercontent.com/110873947/190933319-43eaff20-6a9c-4575-abdd-82f99d41ba33.png)
+
+Screen shot from output txt file -
+![Screen Shot 2022-09-18 at 5 16 17 PM](https://user-images.githubusercontent.com/110873947/190933338-b63a9754-68aa-467d-b4b8-96c6c11a379b.png)
+
 
 # Election-Audit Summary
 The election audit was such a success becuase of Python.
